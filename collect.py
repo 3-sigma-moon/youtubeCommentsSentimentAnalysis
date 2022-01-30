@@ -6,7 +6,7 @@ from comments import Comments
 
 VIDEO_ID = "ACdh-yzENXM"
 
-RAPID_API_TOKEN = "0f35b55f3amshba4c2b9f3590916p1b8d35jsn2efedc4c7c9a"
+RAPID_API_TOKEN = "CHANGE_THIS"
 
 
 def simple_call(video_id: str) -> Comments:
