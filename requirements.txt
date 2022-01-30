@@ -1,0 +1,7 @@
+requests
+torch
+transformers
+scipy
+seaborn
+matplotlib
+tqdm
