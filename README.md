@@ -2,10 +2,12 @@
 Sentiment Analysis on Joe Rogan’s Youtube Comments
 
 
-
-[![license](https://badgen.net/badge/license/MIT/blue)](https://github.com/omarmhaimdat/youtubeCommentsSentimentAnalysis)
+[![license](https://badgen.net/badge/license/MIT/blue)](article)
 
 ## Article
+
+[![Open the article](article.png)](https://heartbeat.fritz.ai/face-recognition-and-detection-on-ios-using-native-swift-code-core-ml-and-arkit-feed10c468da)
+
 
 ## Github Repository
 
